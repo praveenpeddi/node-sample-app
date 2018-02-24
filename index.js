@@ -12,6 +12,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
     extended: true
 }));
+app.use(express.static('images'))
 app.use(function(req, res, next) {
 
     // Website you wish to allow to connect
@@ -43,6 +44,11 @@ app.get('/testjson',function(req,res){
 	res.json(JSON.parse(data));
 })
 
-app.listen(port,function(){
+app.get('/getEventInfo',function(req,res){
+    var data = fs.readFileSync(JSON_DIR+'scrumconf.json','utf-8');
+    res.json(JSON.parse(data));
+})
+
+app.listen(process.env.PORT||port,function(){
 	console.log("App started at port number "+port);
 })
