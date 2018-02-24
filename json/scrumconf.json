@@ -1,0 +1,184 @@
+{
+  "sessions": [
+    {
+      "sessionName": "Why User Story and Definition of Done are important",
+      "sessiontime": "2.30PM - 3.00PM",
+      "sessionTrack": "1",
+      "presenters": [
+        {
+          "name": "Tadikonda, Gowri Shankar",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        },
+        {
+          "name": "Gorti, Sruti",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        }
+      ]
+    },
+    {
+      "sessionName": "Continuous Integration in Software Development",
+      "sessiontime": "3.00PM - 3.30PM",
+      "sessionTrack": "1",
+      "presenters": [
+        {
+          "name": "Bhandari, Yogesh",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        },
+        {
+          "name": "Seri, Prashanti Somaia",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        }
+      ]
+    },
+    {
+      "sessionName": "Pair Programming - Myth Busters!",
+      "sessiontime": "3.30PM - 4.00PM",
+      "sessionTrack": "1",
+      "presenters": [
+        {
+          "name": "Pattabi, Raghunathan",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        },
+        {
+          "name": "Yanuganti, Rajesh Kumar",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        }
+      ]
+    },
+    {
+      "sessionName": "Measuring productivity in software testing with statistical tools",
+      "sessiontime": "4.00PM - 4.30PM",
+      "sessionTrack": "1",
+      "presenters": [
+        {
+          "name": "Sathyanarayanan, Prasanna",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        }
+      ]
+    },
+    {
+      "sessionName": "How Can Your Scrum Team Improve Product Quality?",
+      "sessiontime": "4.30PM - 5.00PM",
+      "sessionTrack": "1",
+      "presenters": [
+        {
+          "name": "Sanga, Narahari",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        }
+      ]
+    },
+    {
+      "sessionName": "Improving QA Efficiency by adopting new approaches - Newtools",
+      "sessiontime": "5.00PM - 5.30PM",
+      "sessionTrack": "1",
+      "presenters": [
+        {
+          "name": "Konduri, Trikoteswar",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        }
+      ]
+    },
+    {
+      "sessionName": "Release Planning : Laying Path for Success",
+      "sessiontime": "2.30PM - 3.00PM",
+      "sessionTrack": "2",
+      "presenters": [
+        {
+          "name": "Vulava, Rajya Lakshmi",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        },
+        {
+          "name": "Arnab, Biswas",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        }
+      ]
+    },
+    {
+      "sessionName": "Science behind Scrum",
+      "sessiontime": "3.00PM - 3.30PM",
+      "sessionTrack": "2",
+      "presenters": [
+        {
+          "name": "Gundlapalli, Jyothi",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        }
+      ]
+    },
+    {
+      "sessionName": "Building Learning Teams",
+      "sessiontime": "3.30PM - 4.00PM",
+      "sessionTrack": "2",
+      "presenters": [
+        {
+          "name": "Vydula, Raghavendra",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        }
+      ]
+    },
+    {
+      "sessionName": "Cost o Quality Impact on Business",
+      "sessiontime": "4.00PM - 4.30PM",
+      "sessionTrack": "2",
+      "presenters": [
+        {
+          "name": "Konidena, Chnadra Sekhar",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        }
+      ]
+    },
+    {
+      "sessionName": "Scrum Boon or Bane?",
+      "sessiontime": "4.30PM - 5.00PM",
+      "sessionTrack": "2",
+      "presenters": [
+        {
+          "name": "Arani Rajagopala Rao, Vasuki",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        }
+      ]
+    },
+    {
+      "sessionName": "Improving QA Efficiency by adopting new approaches - Newtools",
+      "sessiontime": "5.00PM - 5.30PM",
+      "sessionTrack": "2",
+      "presenters": [
+        {
+          "name": "Konduri, Trikoteswar",
+          "image": "https://scrumconference.herokuapp.com/praveen.jpg",
+          "designation": "Executive Manager",
+          "description": "presenter"
+        }
+      ]
+    }
+  ]
+}
