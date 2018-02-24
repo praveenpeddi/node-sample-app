@@ -1,0 +1,15 @@
+{
+  "name": "scrum-conference",
+  "version": "1.0.0",
+  "description": "This app provides data to the service requests for scrum-conference",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "praveen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
